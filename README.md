@@ -8,7 +8,7 @@ Steps to follow:
 3. Finally, execute R source code to generate tidy data file. A sample of the tidy data set has been uploaded as well.
 
 # Data description
-The variables in the data X are sensor signals measured with waist-mounted smartphone by 30 individuals. The variable in the data Y indicates activity type the subjects performed during recording like walking, walking_upstairs,walking_downstairs,sitting,standing and laying.
+The variables in the data X are sensor signals measured with waist-mounted smartphone by 30 individuals. The variable in the data Y indicates activity type the subjects performed during recording like walking, walking_upstairs, walking_downstairs,sitting, standing and laying.
 
 # Explaination of the Code
 The code merged training dataset and test dataset, and extracted partial variables from the same. Another dataset is created where mean of each extracted variable is calculated for each activity.
